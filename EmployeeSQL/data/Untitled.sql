@@ -52,5 +52,13 @@ CREATE TABLE salaries (
 );
 
 
+select * from departments;
+select * from salaries
+select * from dept_manager;
+select * from dept_emp;
+select * from employees;
+select * from titles;
+
+
 
 
